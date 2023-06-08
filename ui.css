@@ -1,0 +1,405 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navigasi {
+    position: absolute;
+    width: 1280px;
+    height: 60px;
+    background-color: #243762;
+}
+
+/* .navtab {
+    list-style-type: none;
+    display: flex;
+    text-align: right;
+
+} */
+
+.ll {
+    font-family: 'Humnst777 Blk BT';
+    color: #FFFFFF;
+    text-decoration: none;
+    margin: 20px;
+
+}
+
+.ll:visited {
+    color: #FFFFFF;
+}
+
+.ll:hover {
+    color: #FFFFFF;
+}
+
+.sm {
+    position: absolute;
+    width: 330px;
+    height: 49px;
+    left: 469px;
+    top: 133px;
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+
+    color: #243762;
+}
+
+.nama {
+    position: absolute;
+    width: 307px;
+    height: 73px;
+    left: 522px;
+    top: 165px;
+
+    font-family: 'Peralta';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 83px;
+
+    color: #243762;
+
+}
+
+.text {
+    position: absolute;
+    width: 694px;
+    height: 50px;
+    left: 301px;
+    top: 268px;
+
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #243762;
+}
+
+.login {
+    box-sizing: content-box;
+    position: absolute;
+    width: 167px;
+    height: 54px;
+    left: 433px;
+    top: 460px;
+    background: #FFFFFF;
+    border: 2px solid #243762;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+
+    position: absolute;
+    width: 78px;
+    height: 29px;
+    left: 477px;
+    top: 472px;
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #243762;
+
+}
+
+.signup {
+    position: absolute;
+    width: 165px;
+    height: 55px;
+    left: 676px;
+    top: 480px;
+    background: #243762;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+
+
+
+    position: relative;
+    width: 101px;
+    height: 33px;
+    left: 704px;
+    top: 464px;
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 29px;
+    color: #F5F5F5;
+}
+
+.lt {
+    text-decoration: none;
+    color: #243762;
+    position: relative;
+    width: 96px;
+    height: 29px;
+    left: 7px;
+    top: 0px;
+}
+
+
+.st {
+    text-decoration: none;
+    color: #F5F5F5;
+    position: relative;
+    width: 96px;
+    height: 29px;
+    left: 7px;
+    top: 0px;
+}
+
+.home {
+    color: #FFFFFF;
+    font-family: 'Peralta';
+    font-style: normal;
+    font-size: 35px;
+    padding: 10px;
+
+}
+
+.llo {
+    text-decoration: none;
+    position: absolute;
+    width: 100px;
+    height: 29px;
+    left: 1074px;
+    top: 15px;
+    font-size: 24;
+}
+
+.lo {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.pilihan {
+    text-decoration: none;
+    list-style-type: none;
+    background-color: #243762d7;
+    width: 300px;
+    height: 636px;
+    margin: 0;
+}
+
+.link-c {
+    text-decoration: none;
+    position: absolute;
+    width: 160px;
+    height: 39px;
+    left: 51px;
+    top: 80px;
+
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.link-a {
+    text-decoration: none;
+    position: absolute;
+    width: 113px;
+    height: 39px;
+    left: 52px;
+    top: 204px;
+
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.link-b {
+    text-decoration: none;
+    position: absolute;
+    width: 113px;
+    height: 39px;
+    left: 51px;
+    top: 140px;
+
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39px;
+
+    color: #FFFFFF;
+}
+
+.link-d {
+    text-decoration: none;
+    position: absolute;
+    width: 113px;
+    height: 39px;
+    left: 51px;
+    top: 272;
+
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39px;
+
+    color: #FFFFFF;
+}
+
+.link-e {
+    text-decoration: none;
+    position: absolute;
+    width: 208px;
+    height: 39px;
+    left: 51px;
+    top: 397px;
+
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39px;
+
+    color: #FFFFFF;
+}
+
+.link-f {
+    text-decoration: none;
+    position: absolute;
+    width: 265px;
+    height: 39px;
+    left: 51px;
+    top: 469px;
+
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 455px;
+    font-size: 30px;
+    line-height: 38px;
+
+    color: #FFFFFF;
+}
+
+.link-g {
+    text-decoration: none;
+    position: absolute;
+    width: 265px;
+    height: 39px;
+    left: 51px;
+    top: 533px;
+
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39px;
+
+    color: #FFFFFF;
+}
+
+.link-h {
+    text-decoration: none;
+    position: absolute;
+    width: 113px;
+    height: 39px;
+    left: 51px;
+    top: 335px;
+
+    font-family: 'Humnst777 Blk BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.mufpet {
+    position: absolute;
+    width: 1280px;
+    height: 102px;
+    left: 0px;
+    top: 0px;
+    background: #243762;
+
+    position: absolute;
+    width: 307px;
+    height: 78.12px;
+    left: 108px;
+    top: 12px;
+    font-family: 'Peralta';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 83px;
+    color: #FFFFFF;
+    border: 1px solid #F5F5F5;
+}
+
+.tampilan {
+    position: relative;
+    /* top: 6px; */
+}
+
+.c {
+    background-color: #243762;
+    color: white;
+    height: 30;
+}
+
+table.tabel {
+    position: absolute;
+    left: 485px;
+    top: 200px;
+}
+
+.navtab {
+    display: inline-block;
+    justify-content: right;
+    display: flex;
+}
+
+.navtab a {
+    position: relative;
+    display: flex;
+    width: 100px;
+    height: 60px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+table {
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+a.tampilan {
+    position: absolute;
+    left: 485px;
+    top: 200px;
+}
+.title{
+    position: absolute;
+    top:100px;
+    left: 550px;
+}
+.add{
+    
+    position: absolute;
+    top:170px;
+    left: 550px;
+}
+
+.title.dokter{
+    position: absolute;
+    top:100px;
+    left: 550px;
+}
+

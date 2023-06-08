@@ -1,0 +1,159 @@
+.nav{
+    background-color: #243762;
+    color: white;
+    height: 10%;
+    font-size: 42;
+    text-align: left;
+
+}
+
+.pilihan{
+    list-style-type: none;
+    line-height: 3;
+    text-align: left;
+    background-color: #243762;
+    width: 15%;    
+}   
+
+.link-c{
+    color:white;
+    font-size: 25;
+    text-decoration: none;
+}
+.link-c:visited{
+    color: white;
+}
+.link-c:hover{
+    color: white;
+}
+
+.link-d{
+    color:white;
+    font-size: 25;
+    text-decoration: none;
+}
+.link-d:visited{
+    color: white;
+}
+.link-d:hover{
+    color: white;
+}
+
+.link-h{
+    color:white;
+    font-size: 25;
+    text-decoration: none;
+}
+.link-h:visited{
+    color: white;
+}
+.link-h:hover{
+    color: white;
+}
+
+.link-k{
+    color:white;
+    font-size: 25;
+    text-decoration: none;
+}
+.link-k:visited{
+    color: white;
+}
+.link-k:hover{
+    color: white;
+}
+
+.link-k{
+    color:white;
+    font-size: 25;
+    text-decoration: none;
+}
+.link-k:visited{
+    color: white;
+}
+.link-k:hover{
+    color: white;
+}
+
+.link-p{
+    color:white;
+    font-size: 25;
+    text-decoration: none;
+}
+.link-p:visited{
+    color: white;
+}
+.link-p:hover{
+    color: white;
+}
+
+.link-g{
+    color:white;
+    font-size: 25;
+    text-decoration: none;
+}
+.link-g:visited{
+    color: white;
+}
+.link-g:hover{
+    color: white;
+}
+
+.link-o{
+    color:white;
+    font-size: 25;
+    text-decoration: none;
+}
+.link-o:visited{
+    color: white;
+}
+.link-o:hover{
+    color: white;
+}
+
+.c{
+    background-color: #243762;
+    color: white;
+    height: 30;
+}
+
+.boxc{
+    width:30%;
+    height:65%;
+    background-color: #243762;
+    color:white;
+    border-radius: 7px;
+}
+
+.boxg{
+    width: 30%;
+    height:35%;
+    background-color: #243762;
+    color: white;
+    border-radius: 7px;
+}
+
+.new{
+    text-align:center;
+}
+
+.letak{
+    align-items: center;
+}
+
+.s{
+    background: #243762;
+}
+ .link-b{
+    color:black;
+    text-align: left;
+ }
+
+.home{
+    color:#FFFFFF;
+    font-family:'Peralta';
+    font-style:normal;
+    font-size:35px;
+    padding: 10px;
+
+}
